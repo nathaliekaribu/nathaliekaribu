@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathaliekaribu
-- 👀 I’m interested in ...
+- 👀 I’m the founder of Karibu.ai
 - 📫 How to reach me nathalie@karibu.ai
 
 <!---
